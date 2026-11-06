@@ -1,0 +1,16 @@
+{
+  "name": "pf03-tdd-node",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.12"
+  }
+}
