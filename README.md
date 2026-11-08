@@ -11,8 +11,8 @@ GitHub Actions.
 ## Reparto
 | Alumno | Nombre | Usuario GitHub | Tests | Código |
 |--------|--------|----------------|-------|--------|
-| A | Marco Iborra de Tiedra | @matcooidt | fibonacci | esPinValido |
-| B | Daniel ........ | @blayaensenat | esPinValido | fibonacci |
+| A | Marco Iborra De Tiedra | @matcooidt | fibonacci | esPinValido |
+| B | Daniel Enseñat Blaya | @blayaensenat | esPinValido | fibonacci |
 
 ## Instalación
     npm ci
